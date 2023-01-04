@@ -3,11 +3,13 @@ package ss3_mang_va_phuong_thuc_trong_java.bai_tap;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class XoaPhanTuKhoiMang {
+public class AddElementToArray {
     public static void main(String[] args) {
-        int number;
         int size;
         int array[];
+        int number;
+        int index;
+        int j;
         Scanner scanner = new Scanner(System.in);
         size = Integer.parseInt(scanner.nextLine());
         array = new int[size];
@@ -17,12 +19,19 @@ public class XoaPhanTuKhoiMang {
             array[i] = Integer.parseInt(scanner.nextLine());
             i++;
         }
-        System.out.print("Enter a number: ");
+        System.out.println(Arrays.toString(array));
+        System.out.println("Enter number: ");
         number = Integer.parseInt(scanner.nextLine());
-        for (int j = 0; j < array.length; j++) {
-            if (number == array[j]) {
-                array[j] = 0;
+        System.out.println("Enter index: ");
+        index = Integer.parseInt(scanner.nextLine());
+        if (index <= -1 || index >= array.length) {
+            System.out.println("Không chèn được phần tử vào mảng");
+        } else {
+
+            for (j = array.length - 1; j > index; j--) {
+                array[j] = array[j - 1];
             }
+            array[index] = number;
         }
         System.out.println(Arrays.toString(array));
     }
