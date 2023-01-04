@@ -1,6 +1,6 @@
 package ss2_vong_lap_trong_java.bai_tap;
 
-public class HienThiCacSoNguyenToNhoHon100 {
+public class ShowPrimeLessThanh100 {
     public static void main(String[] args) {
         System.out.println(2);
         for (int i = 3; i <= 100; i++) {

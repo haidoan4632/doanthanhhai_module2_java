@@ -1,6 +1,6 @@
 package ss2_vong_lap_trong_java.bai_tap;
 
-public class HienThi20SoNguyenToDauTien {
+public class ShowFirst20Primes {
     public static void main(String[] args) {
 
         int numbers = 20;

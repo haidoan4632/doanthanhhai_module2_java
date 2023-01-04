@@ -2,7 +2,7 @@ package ss2_vong_lap_trong_java.bai_tap;
 
 import java.util.Scanner;
 
-public class HienThiCacLoaiHinh {
+public class ShowTypes {
     public static void main(String[] args) {
 
         int choice = -1;
