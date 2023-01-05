@@ -20,9 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/fan/MainFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/quadracticequaition/MainQuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/quadracticequaition/QuadracticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/stopwatch/MainStopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/bai_tap/stopwatch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/thuc_hanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_and_object_in_java/thuc_hanh/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/ThemPhanTuVaoMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/AddElementToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/XoaPhanTuKhoiMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss3_mang_va_phuong_thuc_trong_java/bai_tap/RemoveElementFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss2_vong_lap_trong_java/bai_tap/HienThi20SoNguyenToDauTien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss2_vong_lap_trong_java/bai_tap/HienThiCacLoaiHinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss2_vong_lap_trong_java/bai_tap/HienThiCacSoNguyenToNhoHon100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss3_mang_va_phuong_thuc_trong_java/bai_tap/CountCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss3_mang_va_phuong_thuc_trong_java/bai_tap/CountCharacterInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss3_mang_va_phuong_thuc_trong_java/bai_tap/ThemPhanTuVaoMang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss3_mang_va_phuong_thuc_trong_java/bai_tap/XoaPhanTuKhoiMang.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +72,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.CountCharacterInString" />
+      <option name="MAIN_CLASS_NAME" value="ss4_class_and_object_in_java.bai_tap.stopwatch.MainStopWatch" />
       <module name="doanthanhhaimodule2_java" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -89,6 +101,10 @@
       <workItem from="1672765410341" duration="284000" />
       <workItem from="1672765893954" duration="937000" />
       <workItem from="1672798616861" duration="10889000" />
+      <workItem from="1672819175825" duration="1801000" />
+      <workItem from="1672844741265" duration="1007000" />
+      <workItem from="1672848814361" duration="2178000" />
+      <workItem from="1672890311758" duration="14882000" />
     </task>
     <servers />
   </component>
@@ -108,30 +124,50 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672807330484">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672906633028">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1672807330484" />
-    <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1672807329340">
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1672906633028" />
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1672908187673">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1672807329340" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1672817128523">
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1672908187673" />
+    <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1672906631748">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1672817128523" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1672817128523">
+    <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1672906631748" />
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom" timestamp="1672913537892">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1672817128523" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1672817128523">
+    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1672913537892" />
+    <state width="1493" height="152" key="GridCell.Tab.0.center" timestamp="1672913537892">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1672817128523" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1672817128523">
+    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1672913537892" />
+    <state width="1493" height="152" key="GridCell.Tab.0.left" timestamp="1672913537892">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1672817128523" />
+    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1672913537892" />
+    <state width="1493" height="152" key="GridCell.Tab.0.right" timestamp="1672913537892">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1672913537892" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1672905533659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1672905533659" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1672905533658">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1672905533658" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1672905533658">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1672905533658" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1672905533659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1672905533659" />
     <state x="209" y="29" key="new project wizard" timestamp="1672754536665">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
