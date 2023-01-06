@@ -1,34 +1,34 @@
 package ss4_class_and_object_in_java.bai_tap.stopwatch;
 
-import java.time.ZonedDateTime;
-import java.util.Date;
-
 public class StopWatch {
-    public Date date = new Date();
     private long startTime;
     private long endTime;
 
-    public StopWatch() {
+    public long getStartTime() {
+        return this.startTime = System.currentTimeMillis();
+    }
+
+    public long getEndTime() {
+        return this.endTime = System.currentTimeMillis();
 
     }
 
-    long start() {
-        startTime = ZonedDateTime.now().toInstant().toEpochMilli();
-        return startTime;
-    }
-
-    long stop() {
-        endTime = ZonedDateTime.now().toInstant().toEpochMilli();
-        return endTime;
-    }
-
-    String getter() {
-        return "Start time:" + this.startTime + " and stop time:" + this.endTime;
-    }
-
-    long getElapsedTime() {
+    public long getElapsedTime() {
         return this.endTime - this.startTime;
     }
+
+    public void start() {
+        getStartTime();
+    }
+
+    public void stop() {
+        getEndTime();
+    }
+
+
 }
+
+
+
 
 
