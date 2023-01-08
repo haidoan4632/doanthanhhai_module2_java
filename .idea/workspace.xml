@@ -20,13 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai1/MainCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai1/MainCylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai2/MainPoint2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai2/MainPoint3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai2/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_inheritance/bai_tap/bai3/TestMovablePoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/META-INF/doanthanhhaimodule2_java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/fan/MainFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/fan/MainFan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/stopwatch/MainStopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/stopwatch/MainStopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/stopwatch/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss4_class_and_object_in_java/bai_tap/stopwatch/StopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/circle/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss5_access_modifier_static_method_static_property/bai_tap/student/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +101,8 @@
       <workItem from="1672848814361" duration="2178000" />
       <workItem from="1672890311758" duration="14882000" />
       <workItem from="1672992410698" duration="5101000" />
+      <workItem from="1673105912457" duration="1369000" />
+      <workItem from="1673166071377" duration="65000" />
     </task>
     <servers />
   </component>
