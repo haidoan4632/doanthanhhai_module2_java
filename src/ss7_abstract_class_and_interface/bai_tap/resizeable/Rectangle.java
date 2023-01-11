@@ -1,6 +1,6 @@
 package ss7_abstract_class_and_interface.bai_tap.resizeable;
 
-public class Rectangle extends Shape implements Resiable {
+public class Rectangle extends Shape implements IResizable {
     private double width = 1.0;
     private double length = 1.0;
 

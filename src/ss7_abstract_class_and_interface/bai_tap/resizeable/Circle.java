@@ -1,6 +1,6 @@
 package ss7_abstract_class_and_interface.bai_tap.resizeable;
 
-public class Circle extends Shape implements Resiable {
+public class Circle extends Shape implements IResizable {
     private double radius = 1;
 
     public Circle() {
@@ -32,7 +32,7 @@ public class Circle extends Shape implements Resiable {
         return 2 * radius * Math.PI;
     }
 
-    @Override
+
     public String toString() {
         return "Chu vi hình tròn trước khi thay đổi: " + getPerimeter() + " Diện tích hình tròn trước khi thay đổi: " + getArea()
                 + super.toString();
