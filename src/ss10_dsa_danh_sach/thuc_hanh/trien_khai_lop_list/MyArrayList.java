@@ -35,7 +35,6 @@ public class MyArrayList<E> {
             size++;
         }
     }
-
     public E remove(int index) {
         if (index < 0 || index > elements.length) {
             throw new IllegalArgumentException("Error index: " + index);
@@ -48,22 +47,18 @@ public class MyArrayList<E> {
         size--;
         return element;
     }
-
     public int size() {
         return this.size;
     }
-
     public MyArrayList<E> clone() {
         MyArrayList<E> abcxyz = new MyArrayList<>();
         abcxyz.elements = Arrays.copyOf(this.elements, this.size);
         abcxyz.size = this.size;
         return abcxyz;
     }
-
     public boolean contains(E element) {
         return this.indexOf(element) >= 0;
     }
-
     public int indexOf(E element) {
         int index = -1;
         for (int i = 0; i < size; i++) {
@@ -73,13 +68,11 @@ public class MyArrayList<E> {
         }
         return index;
     }
-
     public boolean add(E element) {
         elements[size] = element;
         size++;
         return true;
     }
-
     public void ensureCapacity(int minCapacity) {
         if (minCapacity >= 0) {
             int newSize = this.elements.length + minCapacity;
@@ -88,11 +81,9 @@ public class MyArrayList<E> {
             throw new IllegalArgumentException("minCapacity: " + minCapacity);
         }
     }
-
     public E get(int index) {
         return (E) elements[index];
     }
-
     public void clear() {
         size = 0;
         for (int i = 0; i < elements.length; i++) {
