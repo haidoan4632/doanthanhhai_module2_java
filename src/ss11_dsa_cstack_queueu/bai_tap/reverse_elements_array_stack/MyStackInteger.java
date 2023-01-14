@@ -14,7 +14,7 @@ public class MyStackInteger {
             stack.push(Integer.parseInt(scanner.nextLine()));
         }
         System.out.println("before stack");
-        System.out.println("" + stack);
+        System.out.println(stack);
         System.out.println("after stack");
         while (!stack.empty()) {
             stack1.push(stack.pop());
