@@ -20,22 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/decimal/Decimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Solotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/thuc_hanh/queue_linkedlist/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/thuc_hanh/queue_linkedlist/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/thuc_hanh/queue_linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/thuc_hanh/stack_linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/thuc_hanh/stack_linkedlist/MyGenericStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_linkedlist/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_linkedlist/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list/MyArrayList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss10_dsa_danh_sach/thuc_hanh/trien_khai_lop_list/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/decimal/Decimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/decimal/Decimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Solotion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,6 +145,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.LinkedListQueueClient" />
       <item itemvalue="Application.MyStackInteger" />
       <item itemvalue="Application.MyStackString" />
@@ -207,6 +200,9 @@
       <workItem from="1673448584061" duration="8831000" />
       <workItem from="1673533076962" duration="2246000" />
       <workItem from="1673578804249" duration="18646000" />
+      <workItem from="1673629620839" duration="93000" />
+      <workItem from="1673665275217" duration="1359000" />
+      <workItem from="1673666662210" duration="1370000" />
     </task>
     <servers />
   </component>
@@ -246,38 +242,38 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673583949678" />
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom" timestamp="1673604925741">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1673667354349">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673604925741" />
-    <state width="1493" height="174" key="GridCell.Tab.0.center" timestamp="1673604925741">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673667354349" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1673667354349">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673604925741" />
-    <state width="1493" height="174" key="GridCell.Tab.0.left" timestamp="1673604925741">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673667354349" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1673667354349">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673604925741" />
-    <state width="1493" height="174" key="GridCell.Tab.0.right" timestamp="1673604925741">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673667354349" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1673667354349">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673604925741" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1673427858304">
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673667354349" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1673666644644">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673427858304" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1673427858304">
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673666644644" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1673666644644">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1673427858304" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1673427858304">
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1673666644644" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1673666644644">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1673427858304" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1673427858304">
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1673666644644" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1673666644644">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1673427858304" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1673666644644" />
     <state x="209" y="29" key="new project wizard" timestamp="1672754536665">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

@@ -9,19 +9,18 @@ public class CheckPalindromeStringUsingQueue {
         System.out.println("Nhập chuỗi cần check");
         Scanner scanner = new Scanner(System.in);
         String inputString = scanner.nextLine();
-        System.out.println(inputString);
-        Queue queue = new LinkedList();
-
+        inputString = inputString.toLowerCase();
+        Queue<Character> queue = new LinkedList<>();
         for (int i = inputString.length() - 1; i >= 0; i--) {
             queue.offer(inputString.charAt(i));
         }
-
         System.out.println(queue);
-        String reverseString = "";
+        StringBuilder reverseString = new StringBuilder();
         while (!queue.isEmpty()) {
-            reverseString = reverseString + queue.poll();
+            reverseString.append(queue.poll());
         }
-        if (inputString.equals(reverseString)) {
+        System.out.println(reverseString);
+        if (inputString.equals(reverseString.toString())) {
             System.out.println("Đây là chuỗi đối xứng.");
         } else {
             System.out.println("Đây không phải là chuỗi đối xứng.");

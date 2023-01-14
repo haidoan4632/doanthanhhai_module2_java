@@ -24,13 +24,13 @@ public class Decimal {
             while (!decimal.empty()) {
                 decimal1.push(decimal.pop());
             }
-            for (int i = 0; i < decimal1.size(); i++) {
-                decimal.push(decimal1.get(i));
+            for (Integer integer : decimal1) {
+                decimal.push(integer);
             }
 //        System.out.print(decimal);
-            String a = null;
-            for (int i = 0; i < decimal.size(); i++) {
-                a = String.valueOf(decimal.get(i));
+            String a;
+            for (Integer integer : decimal) {
+                a = String.valueOf(integer);
                 System.out.print(a);
             }
         }
