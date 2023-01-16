@@ -7,20 +7,16 @@ public class CheckBracket {
     public static boolean Bracket(String bracket) {
         Stack<String> bStack = new Stack<>();
         String[] stringArray = bracket.split("");
-        for (int i = 0; i < stringArray.length; i++) {
-            if (stringArray[i].equals("(")) {
-                bStack.push(stringArray[i]);
-            } else if (stringArray[i].equals(")")) {
+        for (String s : stringArray) {
+            if (s.equals("(")) {
+                bStack.push(s);
+            } else if (s.equals(")")) {
                 if (bStack.isEmpty()) {
                     return false;
                 } else bStack.pop();
             }
         }
-        if (bStack.empty()) {
-            return true;
-        } else {
-            return false;
-        }
+        return bStack.empty();
     }
 
     public static void main(String[] args) {

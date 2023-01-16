@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/check_bracket_stack/CheckBracket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss11_dsa_cstack_queueu/bai_tap/check_palindrome_string_using_queue/CheckPalindromeStringUsingQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/reverse_elements_array_stack/MyStackInteger.java" afterDir="false" />
-    </list>
+    <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +179,7 @@
       <workItem from="1673578804249" duration="18646000" />
       <workItem from="1673629620839" duration="93000" />
       <workItem from="1673665275217" duration="1359000" />
-      <workItem from="1673666662210" duration="17570000" />
+      <workItem from="1673666662210" duration="17949000" />
     </task>
     <servers />
   </component>
@@ -229,22 +223,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673583949678" />
-    <state width="723" height="137" key="GridCell.Tab.0.bottom" timestamp="1673703756297">
+    <state width="723" height="2" key="GridCell.Tab.0.bottom" timestamp="1673705097016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="137" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673703756297" />
-    <state width="723" height="137" key="GridCell.Tab.0.center" timestamp="1673703756297">
+    <state width="723" height="2" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673705097016" />
+    <state width="723" height="2" key="GridCell.Tab.0.center" timestamp="1673705097016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="137" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673703756297" />
-    <state width="723" height="137" key="GridCell.Tab.0.left" timestamp="1673703756297">
+    <state width="723" height="2" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673705097016" />
+    <state width="723" height="2" key="GridCell.Tab.0.left" timestamp="1673705097016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="137" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673703756297" />
-    <state width="723" height="137" key="GridCell.Tab.0.right" timestamp="1673703756297">
+    <state width="723" height="2" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673705097016" />
+    <state width="723" height="2" key="GridCell.Tab.0.right" timestamp="1673705097016">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="137" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673703756297" />
+    <state width="723" height="2" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673705097016" />
     <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1673702896148">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
