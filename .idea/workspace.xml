@@ -20,8 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/DanhSachSinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/count_element_in_string_map/CountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/reponsitory/IReponsitoryProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/reponsitory/ProductResponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/service/IServiceProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/service/ProductService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/UsingCircleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss11_dsa_cstack_queueu/bai_tap/implement_queue_using_circular_linked_list/Note.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +73,18 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.CheckBracket">
-    <configuration name="CheckBracket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.check_bracket_stack.CheckBracket" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ss12_java_collection_framework.bai_tap.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductController (1)">
+    <configuration name="CountWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.count_element_in_string_map.CountWords" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.check_bracket_stack.*" />
+          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.count_element_in_string_map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPalindromeStringUsingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.check_palindrome_string_using_queue.CheckPalindromeStringUsingQueue" />
+    <configuration name="MainFan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_and_object_in_java.bai_tap.fan.MainFan" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.check_palindrome_string_using_queue.*" />
+          <option name="PATTERN" value="ss4_class_and_object_in_java.bai_tap.fan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Decimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.decimal.Decimal" />
+    <configuration name="ProductController (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss12_java_collection_framework.bai_tap.controller.ProductController" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.decimal.*" />
+          <option name="PATTERN" value="ss12_java_collection_framework.bai_tap.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.reverse_elements_array_stack.MyStackInteger" />
+    <configuration name="ProductController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nhap.controller.ProductController" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.reverse_elements_array_stack.*" />
+          <option name="PATTERN" value="nhap.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss11_dsa_cstack_queueu.bai_tap.reverse_elements_array_stack.MyStackString" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Test" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss11_dsa_cstack_queueu.bai_tap.reverse_elements_array_stack.*" />
+          <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyStackInteger" />
-      <item itemvalue="Application.MyStackString" />
-      <item itemvalue="Application.Decimal" />
-      <item itemvalue="Application.CheckPalindromeStringUsingQueue" />
-      <item itemvalue="Application.CheckBracket" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.MainFan" />
+      <item itemvalue="Application.CountWords" />
+      <item itemvalue="Application.ProductController" />
+      <item itemvalue="Application.ProductController (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckBracket" />
-        <item itemvalue="Application.CheckPalindromeStringUsingQueue" />
-        <item itemvalue="Application.Decimal" />
-        <item itemvalue="Application.MyStackString" />
-        <item itemvalue="Application.MyStackInteger" />
+        <item itemvalue="Application.ProductController (1)" />
+        <item itemvalue="Application.ProductController" />
+        <item itemvalue="Application.CountWords" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MainFan" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +203,15 @@
       <workItem from="1673665275217" duration="1359000" />
       <workItem from="1673666662210" duration="17949000" />
       <workItem from="1673846000349" duration="2824000" />
+      <workItem from="1674029548839" duration="7589000" />
+      <workItem from="1674101077812" duration="1719000" />
+      <workItem from="1674151330770" duration="769000" />
+      <workItem from="1674284045115" duration="597000" />
+      <workItem from="1674591027592" duration="314000" />
+      <workItem from="1675136983048" duration="15930000" />
+      <workItem from="1675160223422" duration="103000" />
+      <workItem from="1675167260373" duration="4133000" />
+      <workItem from="1675171474869" duration="77000" />
     </task>
     <servers />
   </component>
@@ -211,14 +235,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="395" y="87" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1673699966495" />
+    <state x="361" y="67" width="814" height="728" key="#Intentions" timestamp="1674063951829">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" width="814" height="728" key="#Intentions/0.0.1536.816@0.0.1536.816" timestamp="1674063951829" />
+    <state x="112" y="17" key="#Live_Templates" timestamp="1674062253135">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="112" y="17" key="#Live_Templates/0.0.1536.816@0.0.1536.816" timestamp="1674062253135" />
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673678247689">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673678247689" />
-    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1673533941351">
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1675159589587">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1673533941351" />
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1675159589587" />
     <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1673678246943">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -227,42 +259,50 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1673236707774" />
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1675169299212">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1675169299212" />
     <state x="499" y="155" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1673583949678">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673583949678" />
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom" timestamp="1673849254099">
+    <state x="932" y="152" key="#toString()_Generation_Settings" timestamp="1674063692677">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673849254099" />
-    <state width="1493" height="171" key="GridCell.Tab.0.center" timestamp="1673849254099">
+    <state x="932" y="152" key="#toString()_Generation_Settings/0.0.1536.816@0.0.1536.816" timestamp="1674063692677" />
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673849254099" />
-    <state width="1493" height="171" key="GridCell.Tab.0.left" timestamp="1673849254099">
+    <state width="1493" height="258" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.0.center" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673849254099" />
-    <state width="1493" height="171" key="GridCell.Tab.0.right" timestamp="1673849254099">
+    <state width="1493" height="258" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.0.left" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="171" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673849254099" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1673702896148">
+    <state width="1493" height="258" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.0.right" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673702896148" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1673702896148">
+    <state width="1493" height="258" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1673702896148" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1673702896148">
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1673702896148" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1673702896148">
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1675171425963">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1673702896148" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1675171425963">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1675171425963" />
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1673846024663">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
