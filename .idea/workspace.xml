@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/bai_tap/IllefalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/bai_tap/IllegalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_search_algorithm/bai_tap/Setting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_search_algorithm/bai_tap/Setting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_sort_algorithm/bai_tap/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +76,7 @@
       <recent name="ss12_java_collection_framework.bai_tap.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SettingAlgorithmInsertionSort">
+  <component name="RunManager" selected="Application.IllegalTriangle">
     <configuration name="AddElementToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.AddElementToArray" />
       <module name="doanthanhhaimodule2_java" />
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaxElement2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.FindMaxElement2DArray" />
+    <configuration name="IllegalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_handling_and_debug.bai_tap.IllegalTriangle" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.*" />
+          <option name="PATTERN" value="ss15_exception_handling_and_debug.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss13_sort_algorithm.bai_tap.InsertionSort" />
+      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.InsertionSort" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss13_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nhap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.Nhap" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss15_exception_handling_and_debug.thuc_hanh.Main" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.thuc_hanh.*" />
+          <option name="PATTERN" value="ss15_exception_handling_and_debug.thuc_hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +130,11 @@
       </method>
     </configuration>
     <configuration name="SettingAlgorithmInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss13_sort_algorithm.bai_tap.SettingAlgorithmInsertionSort" />
+      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.SettingAlgorithmInsertionSort" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss13_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +143,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindMaxElement2DArray" />
-      <item itemvalue="Application.Nhap" />
       <item itemvalue="Application.AddElementToArray" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.SettingAlgorithmInsertionSort" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.IllegalTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IllegalTriangle" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SettingAlgorithmInsertionSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.AddElementToArray" />
-        <item itemvalue="Application.Nhap" />
-        <item itemvalue="Application.FindMaxElement2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +214,8 @@
       <workItem from="1675218062804" duration="16544000" />
       <workItem from="1675267440617" duration="51000" />
       <workItem from="1675339623588" duration="1578000" />
+      <workItem from="1675395943991" duration="3239000" />
+      <workItem from="1675423082310" duration="1702000" />
     </task>
     <servers />
   </component>
@@ -267,22 +275,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="932" y="152" key="#toString()_Generation_Settings/0.0.1536.816@0.0.1536.816" timestamp="1674063692677" />
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1675341214322">
+    <state width="1493" height="164" key="GridCell.Tab.0.bottom" timestamp="1675424795690">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675341214322" />
-    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1675341214322">
+    <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
+    <state width="1493" height="164" key="GridCell.Tab.0.center" timestamp="1675424795690">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675341214322" />
-    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1675341214322">
+    <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
+    <state width="1493" height="164" key="GridCell.Tab.0.left" timestamp="1675424795690">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675341214322" />
-    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1675341214322">
+    <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
+    <state width="1493" height="164" key="GridCell.Tab.0.right" timestamp="1675424795690">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675341214322" />
+    <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
     <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1675246698430">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
