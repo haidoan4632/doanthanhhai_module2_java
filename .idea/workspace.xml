@@ -20,16 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/bai_tap/IllefalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/bai_tap/IllegalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/ArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/CalculationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss15_exception_handling_and_debug/thuc_hanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/source.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/targer.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/product.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/ByteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/student.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_sort_algorithm/bai_tap/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss13_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss13_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss14_sort_algorithm/bai_tap/SettingAlgorithmInsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss12_java_collection_framework/bai_tap/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss12_java_collection_framework/bai_tap/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss16_i_text_file/bai_tap/copy_file_text/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_i_text_file/bai_tap/copy_file_text/CopyFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +84,13 @@
       <recent name="ss12_java_collection_framework.bai_tap.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IllegalTriangle">
-    <configuration name="AddElementToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.AddElementToArray" />
+  <component name="RunManager" selected="Application.CopyFile (1)">
+    <configuration name="ByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.thuc_hanh.demo.ByteStream" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_mang_va_phuong_thuc_trong_java.bai_tap.*" />
+          <option name="PATTERN" value="ss17_binary_file_serilalization.thuc_hanh.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IllegalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_handling_and_debug.bai_tap.IllegalTriangle" />
+    <configuration name="CopyFile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.copy_file.CopyFile" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_handling_and_debug.bai_tap.*" />
+          <option name="PATTERN" value="ss17_binary_file_serilalization.bai_tap.copy_file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.InsertionSort" />
+    <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss16_i_text_file.bai_tap.copy_file_text.CopyFile" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss16_i_text_file.bai_tap.copy_file_text.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss15_exception_handling_and_debug.thuc_hanh.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.thuc_hanh.demo.Main" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss15_exception_handling_and_debug.thuc_hanh.*" />
+          <option name="PATTERN" value="ss17_binary_file_serilalization.thuc_hanh.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SettingAlgorithmInsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss14_sort_algorithm.bai_tap.SettingAlgorithmInsertionSort" />
+    <configuration name="ManagerProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.controller.ManagerProduct" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss14_sort_algorithm.bai_tap.*" />
+          <option name="PATTERN" value="ss17_binary_file_serilalization.bai_tap.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddElementToArray" />
-      <item itemvalue="Application.InsertionSort" />
-      <item itemvalue="Application.SettingAlgorithmInsertionSort" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.IllegalTriangle" />
+      <item itemvalue="Application.CopyFile" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.ByteStream" />
+      <item itemvalue="Application.ManagerProduct" />
+      <item itemvalue="Application.CopyFile (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IllegalTriangle" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SettingAlgorithmInsertionSort" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.AddElementToArray" />
+        <item itemvalue="Application.CopyFile (1)" />
+        <item itemvalue="Application.ManagerProduct" />
+        <item itemvalue="Application.ByteStream" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.CopyFile" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +224,15 @@
       <workItem from="1675339623588" duration="1578000" />
       <workItem from="1675395943991" duration="3239000" />
       <workItem from="1675423082310" duration="1702000" />
+      <workItem from="1675611012276" duration="1471000" />
+      <workItem from="1675617733121" duration="636000" />
+      <workItem from="1675652050825" duration="13938000" />
+      <workItem from="1675674851030" duration="2301000" />
+      <workItem from="1675677187025" duration="20000" />
+      <workItem from="1675704287714" duration="17000" />
+      <workItem from="1675704349494" duration="1405000" />
+      <workItem from="1675737453836" duration="20153000" />
+      <workItem from="1675770647536" duration="1935000" />
     </task>
     <servers />
   </component>
@@ -251,18 +268,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673678247689" />
-    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1675184115707">
+    <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1675739331999">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1675184115707" />
+    <state x="527" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1675739331999" />
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1675758267640">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="958" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1675758267640" />
     <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1673678246943">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1673678246943" />
-    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1673236707774">
+    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1675758057069">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1673236707774" />
+    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1675758057069" />
     <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1675169299212">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -275,38 +296,38 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="932" y="152" key="#toString()_Generation_Settings/0.0.1536.816@0.0.1536.816" timestamp="1674063692677" />
-    <state width="1493" height="164" key="GridCell.Tab.0.bottom" timestamp="1675424795690">
+    <state width="723" height="152" key="GridCell.Tab.0.bottom" timestamp="1675772596689">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
-    <state width="1493" height="164" key="GridCell.Tab.0.center" timestamp="1675424795690">
+    <state width="723" height="152" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
+    <state width="723" height="152" key="GridCell.Tab.0.center" timestamp="1675772596689">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
-    <state width="1493" height="164" key="GridCell.Tab.0.left" timestamp="1675424795690">
+    <state width="723" height="152" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
+    <state width="723" height="152" key="GridCell.Tab.0.left" timestamp="1675772596689">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
-    <state width="1493" height="164" key="GridCell.Tab.0.right" timestamp="1675424795690">
+    <state width="723" height="152" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
+    <state width="723" height="152" key="GridCell.Tab.0.right" timestamp="1675772596689">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675424795690" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1675246698430">
+    <state width="723" height="152" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675246698430" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1675246698430">
+    <state width="1493" height="257" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675674174416" />
+    <state width="1493" height="257" key="GridCell.Tab.1.center" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1675246698430" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1675246698430">
+    <state width="1493" height="257" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1675674174416" />
+    <state width="1493" height="257" key="GridCell.Tab.1.left" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1675246698430" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1675246698430">
+    <state width="1493" height="257" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1675674174416" />
+    <state width="1493" height="257" key="GridCell.Tab.1.right" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1675246698430" />
+    <state width="1493" height="257" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1675674174416" />
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1673846024663">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

@@ -17,9 +17,9 @@ public class CopyFile {
             String line;
             while ((line = buff.readLine()) != null) {
                 bufferedWriter.write(line + "\n");
-                bufferedWriter.flush();
-            }
 
+            }
+            bufferedWriter.flush();
         } catch (IOException e) {
             throw new RuntimeException(e);
         } finally {
