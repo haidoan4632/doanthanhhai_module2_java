@@ -20,24 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/source.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/copy_file/targer.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/product.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/ByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/thuc_hanh/demo/student.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_class/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_phone/ValidatePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/thuc_hanh/ValidateEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss12_java_collection_framework/bai_tap/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss12_java_collection_framework/bai_tap/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss12_java_collection_framework/bai_tap/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss16_i_text_file/bai_tap/copy_file_text/CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss16_i_text_file/bai_tap/copy_file_text/CopyFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ProductManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ProductService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,20 +81,7 @@
       <recent name="ss12_java_collection_framework.bai_tap.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CopyFile (1)">
-    <configuration name="ByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.thuc_hanh.demo.ByteStream" />
-      <module name="doanthanhhaimodule2_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss17_binary_file_serilalization.thuc_hanh.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ValidatePhone">
     <configuration name="CopyFile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.copy_file.CopyFile" />
       <module name="doanthanhhaimodule2_java" />
@@ -111,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss16_i_text_file.bai_tap.copy_file_text.CopyFile" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss18_string_and_regex.bai_tap.validate_class.MyClass" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss16_i_text_file.bai_tap.copy_file_text.*" />
+          <option name="PATTERN" value="ss18_string_and_regex.bai_tap.validate_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,21 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.thuc_hanh.demo.Main" />
-      <module name="doanthanhhaimodule2_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss17_binary_file_serilalization.thuc_hanh.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManagerProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.controller.ManagerProduct" />
+    <configuration name="ProductManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.controller.ProductManagement" />
       <module name="doanthanhhaimodule2_java" />
       <extension name="coverage">
         <pattern>
@@ -150,20 +121,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidateEmail$EmailExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss18_string_and_regex.thuc_hanh.ValidateEmail$EmailExampleTest" />
+      <module name="doanthanhhaimodule2_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss18_string_and_regex.thuc_hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatePhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss18_string_and_regex.bai_tap.validate_phone.ValidatePhone" />
+      <module name="doanthanhhaimodule2_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss18_string_and_regex.bai_tap.validate_phone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.CopyFile" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.ByteStream" />
-      <item itemvalue="Application.ManagerProduct" />
       <item itemvalue="Application.CopyFile (1)" />
+      <item itemvalue="Application.ProductManagement" />
+      <item itemvalue="Application.ValidateEmail$EmailExampleTest" />
+      <item itemvalue="Application.MyClass" />
+      <item itemvalue="Application.ValidatePhone" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidatePhone" />
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.ValidateEmail$EmailExampleTest" />
         <item itemvalue="Application.CopyFile (1)" />
-        <item itemvalue="Application.ManagerProduct" />
-        <item itemvalue="Application.ByteStream" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.CopyFile" />
+        <item itemvalue="Application.ProductManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +230,8 @@
       <workItem from="1675704349494" duration="1405000" />
       <workItem from="1675737453836" duration="20153000" />
       <workItem from="1675770647536" duration="1935000" />
+      <workItem from="1675824153911" duration="5085000" />
+      <workItem from="1675829571969" duration="1502000" />
     </task>
     <servers />
   </component>
@@ -280,10 +279,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="498" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.816@0.0.1536.816" timestamp="1673678246943" />
-    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1675758057069">
+    <state x="812" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1675824669239">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="826" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1675758057069" />
+    <state x="812" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1675824669239" />
     <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1675169299212">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -296,22 +295,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="932" y="152" key="#toString()_Generation_Settings/0.0.1536.816@0.0.1536.816" timestamp="1674063692677" />
-    <state width="723" height="152" key="GridCell.Tab.0.bottom" timestamp="1675772596689">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1675831034467">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="152" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
-    <state width="723" height="152" key="GridCell.Tab.0.center" timestamp="1675772596689">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
+    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1675831034467">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="152" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
-    <state width="723" height="152" key="GridCell.Tab.0.left" timestamp="1675772596689">
+    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
+    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1675831034467">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="152" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
-    <state width="723" height="152" key="GridCell.Tab.0.right" timestamp="1675772596689">
+    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1675831034467">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="723" height="152" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675772596689" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
     <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -332,10 +331,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.816@0.0.1536.816" timestamp="1673846024663" />
-    <state x="883" y="172" key="extract.method.dialog" timestamp="1675341111598">
+    <state x="883" y="172" key="extract.method.dialog" timestamp="1675830947597">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="883" y="172" key="extract.method.dialog/0.0.1536.816@0.0.1536.816" timestamp="1675341111598" />
+    <state x="883" y="172" key="extract.method.dialog/0.0.1536.816@0.0.1536.816" timestamp="1675830947597" />
     <state x="209" y="29" key="new project wizard" timestamp="1672754536665">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

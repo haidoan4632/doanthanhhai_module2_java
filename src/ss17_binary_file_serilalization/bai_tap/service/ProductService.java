@@ -3,17 +3,12 @@ package ss17_binary_file_serilalization.bai_tap.service;
 import ss17_binary_file_serilalization.bai_tap.model.Product;
 import ss17_binary_file_serilalization.bai_tap.repository.ProductRepository;
 
-public class ServiceProduct implements IServiceProduct {
+public class ProductService implements IProductService {
     ProductRepository productRepository = new ProductRepository();
 
     @Override
     public void add(Product product) {
         productRepository.add(product);
-    }
-
-    @Override
-    public void findAll() {
-        productRepository.findAll();
     }
 
     @Override

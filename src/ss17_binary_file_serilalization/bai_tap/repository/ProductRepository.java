@@ -52,10 +52,6 @@ public class ProductRepository implements IProductRepository {
 
     }
 
-    @Override
-    public void findAll() {
-
-    }
 
     @Override
     public Product findById(int id) {

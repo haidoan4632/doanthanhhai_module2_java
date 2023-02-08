@@ -1,14 +1,14 @@
 package ss17_binary_file_serilalization.bai_tap.controller;
 
 import ss17_binary_file_serilalization.bai_tap.model.Product;
-import ss17_binary_file_serilalization.bai_tap.service.ServiceProduct;
+import ss17_binary_file_serilalization.bai_tap.service.ProductService;
 
 import java.util.Scanner;
 
-public class ManagerProduct {
+public class ProductManagement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        ServiceProduct serviceProduct = new ServiceProduct();
+        ProductService serviceProduct = new ProductService();
         int menu = 0;
         do {
             System.out.println("1.list");
