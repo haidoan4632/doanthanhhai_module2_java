@@ -20,21 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fb702e2-1cb5-47dd-976d-ed9f58f22af9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_class/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_phone/ValidatePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/thuc_hanh/ValidateEmail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/copy_file/CopyFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ManagerProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/controller/ProductManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/IProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/repository/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IServiceProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/IProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ServiceProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss17_binary_file_serilalization/bai_tap/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss18_string_and_regex/bai_tap/validate_class/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/doanthanhhaimodule2_java/ss18_string_and_regex/bai_tap/validate_class/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_class/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss18_string_and_regex/bai_tap/validate_class/MyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,20 +69,7 @@
       <recent name="ss12_java_collection_framework.bai_tap.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidatePhone">
-    <configuration name="CopyFile (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss17_binary_file_serilalization.bai_tap.copy_file.CopyFile" />
-      <module name="doanthanhhaimodule2_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ss17_binary_file_serilalization.bai_tap.copy_file.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MyClass">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss18_string_and_regex.bai_tap.validate_class.MyClass" />
       <module name="doanthanhhaimodule2_java" />
@@ -114,6 +89,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ss17_binary_file_serilalization.bai_tap.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchContinuityStringMaxLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss13_search_algorithm.bai_tap.SearchContinuityStringMaxLength" />
+      <module name="doanthanhhaimodule2_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss13_search_algorithm.bai_tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +136,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CopyFile (1)" />
       <item itemvalue="Application.ProductManagement" />
       <item itemvalue="Application.ValidateEmail$EmailExampleTest" />
       <item itemvalue="Application.MyClass" />
       <item itemvalue="Application.ValidatePhone" />
+      <item itemvalue="Application.SearchContinuityStringMaxLength" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidatePhone" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.ValidateEmail$EmailExampleTest" />
-        <item itemvalue="Application.CopyFile (1)" />
+        <item itemvalue="Application.SearchContinuityStringMaxLength" />
         <item itemvalue="Application.ProductManagement" />
+        <item itemvalue="Application.ValidatePhone" />
+        <item itemvalue="Application.ValidateEmail$EmailExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +219,7 @@
       <workItem from="1675737453836" duration="20153000" />
       <workItem from="1675770647536" duration="1935000" />
       <workItem from="1675824153911" duration="5085000" />
-      <workItem from="1675829571969" duration="1502000" />
+      <workItem from="1675829571969" duration="7321000" />
     </task>
     <servers />
   </component>
@@ -295,22 +283,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="932" y="152" key="#toString()_Generation_Settings/0.0.1536.816@0.0.1536.816" timestamp="1674063692677" />
-    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1675831034467">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom" timestamp="1675842809540">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
-    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1675831034467">
+    <state width="1493" height="150" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675842809540" />
+    <state width="1493" height="150" key="GridCell.Tab.0.center" timestamp="1675842809540">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
-    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1675831034467">
+    <state width="1493" height="150" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675842809540" />
+    <state width="1493" height="150" key="GridCell.Tab.0.left" timestamp="1675842809540">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
-    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1675831034467">
+    <state width="1493" height="150" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675842809540" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right" timestamp="1675842809540">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675831034467" />
+    <state width="1493" height="150" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675842809540" />
     <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1675674174416">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
