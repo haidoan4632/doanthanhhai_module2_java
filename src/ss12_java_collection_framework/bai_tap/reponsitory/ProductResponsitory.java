@@ -27,7 +27,7 @@ public class ProductResponsitory implements IReponsitoryProduct {
     }
 
     @Override
-    public Product fixById(int id) {
+    public Product findById(int id) {
         for (Product i : productList
         ) {
             if (i.getId() == id) {

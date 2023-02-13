@@ -13,8 +13,8 @@ public class ProductService implements IServiceProduct {
     }
 
     @Override
-    public Product fixById(int id) {
-        return reponsitory.fixById(id);
+    public Product findById(int id) {
+        return reponsitory.findById(id);
     }
 
     @Override

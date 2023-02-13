@@ -8,7 +8,7 @@ public class SearchStringRaiseLengthMax {
         Scanner input = new Scanner(System.in);
         System.out.println("Input string");
         String string = input.nextLine();
-        LinkedList<Character> max = new LinkedList<>();
+        LinkedList<Character> list1 = new LinkedList<>();
         LinkedList<Character> list = new LinkedList<>();
         for (int i = 0; i < string.length(); i++) {
             list.add(string.charAt(i));
@@ -17,13 +17,13 @@ public class SearchStringRaiseLengthMax {
                     list.add(string.charAt(j));
                 }
             }
-            if (list.size() > max.size()) {
-                max.clear();
-                max.addAll(list);
+            if (list.size() > list1.size()) {
+                list1.clear();
+                list1.addAll(list);
             }
             list.clear();
         }
-        for (Character ch : max) {
+        for (Character ch : list1) {
             System.out.print(ch);
         }
         System.out.println();

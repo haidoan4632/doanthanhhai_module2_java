@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ReadFile {
-    private static final String READ_WRITE_FILE = "E:\\doanthanhhai_module2_java\\src\\ss16_i_text_file\\bai_tap\\doc_file\\csv\\countriesfile.csv";
+    private static final String READ_FILE = "E:\\doanthanhhai_module2_java\\src\\ss16_i_text_file\\bai_tap\\doc_file\\csv\\countriesfile.csv";
 
     public static List<Country> readCSV() {
         List<Country> countryList = new ArrayList<>();
@@ -16,7 +16,7 @@ public class ReadFile {
         BufferedReader buff = null;
 
         try {
-            fileReader = new FileReader(READ_WRITE_FILE);
+            fileReader = new FileReader(READ_FILE);
             buff = new BufferedReader(fileReader);
 
             String line;

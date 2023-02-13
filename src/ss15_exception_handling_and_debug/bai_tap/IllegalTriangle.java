@@ -19,7 +19,7 @@ public class IllegalTriangle {
             if (a > 0 && b > 0 && c > 0 && a + b > c && a + c > b && b + c > a) {
                 System.out.println("Đây là 3 cạnh của một tam giác ");
             } else {
-                throw new IllefalTriangleException();
+                throw new IllefalTriangleException("Lỗi");
             }
         } catch (IllefalTriangleException e) {
             System.out.println("Đây không phải là 3 cạnh của một tam giác");

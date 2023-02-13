@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class SearchContinuityStringMaxLength {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        LinkedList<Character> max = new LinkedList<>();
+        LinkedList<Character> list1 = new LinkedList<>();
         LinkedList<Character> list = new LinkedList<>();
 
         System.out.print("Input string: ");
@@ -21,12 +21,12 @@ public class SearchContinuityStringMaxLength {
 
             list.add(string.charAt(i));
 
-            if (list.size() > max.size()) {
-                max.clear();
-                max.addAll(list);
+            if (list.size() > list1.size()) {
+                list1.clear();
+                list1.addAll(list);
             }
         }
-        for (Character ch : max) {
+        for (Character ch : list1) {
             System.out.print(ch);
         }
         System.out.println();

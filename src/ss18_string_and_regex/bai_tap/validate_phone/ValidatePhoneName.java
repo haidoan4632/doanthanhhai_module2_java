@@ -4,12 +4,8 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ValidatePhone {
-    private static final String REGEX_VALIDATE_PHONE;
-
-    static {
-        REGEX_VALIDATE_PHONE = "^[0-9]{2}[0][0-9]{9}$";
-    }
+public class ValidatePhoneName {
+    private static final String REGEX_VALIDATE_PHONE = "^[0-9]{2}[0][0-9]{9}$";
 
     public static void main(String[] args) {
         Pattern pattern = Pattern.compile(REGEX_VALIDATE_PHONE);
